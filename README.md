@@ -1,69 +1,61 @@
-<body>
-  <center>
-<h1 align="center">👩🏻‍💻PROFILE</h1>
-<br>
-<div align="center">
 
-<p><a href="https://www.youtube.com/watch?v=3y8ZB6kU2IA">🎶🎶</a><p>
-  
-</div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
-<div>
-<h2 align="center"> 💻about me</h2>
-  <div align="center">
+🎧 [Now Playing](https://www.youtube.com/watch?v=KmibAxiW3Cc)
 
-  </div>
-<li>
- <b>Name:</b> Leeseorin</li>
-<li>
-<b>Loves:</b> 🤫
-</li>
-<li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>Hobbys:</b> Drawing, baking or cooking
-</li>
-<li>
-<b>Sing @:</b> Intave Anticheat
-</li>
-<b>studying:</b>Chosun University
-<br><br><br>
-</div>
-<div>
-<h2 align="center">   📚knowledge</h2>
- <br>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ff3,100:feca57&height=200&section=header&text=Lee%20Seorin's%20Pixel%20World&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!&descAlignY=65&descAlign=60" />
+</h1>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rafaelalmeidatk/pixel-gif@master/gifs/pixel-coding.gif" width="200" /><br />
+  <strong>✨ Hello, my name is Lee Seorin ✨</strong>
+</p>
+
+---
+
+### 🎮 About Me
+
+🧍 **Name**       : Lee Seorin  
+🎂 **Born**       : 2006  
+♀️ **Gender**     : Female  
+🏫 **Study**      : Chosun University  
+
+---
+
+### 🧠 Knowledge
+
 <p>
-  <div align="center">
-  </div>
-  <br>
-<align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,js=light" alt="My Skills" />
-  </a>
-<br><br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
+---
 
-<br>
-<h2 align="center">    📞📞contact</h2>
-  <div align="center">
+### 🧩 Level
 
-  </div>
-<br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-</div>
-<br>
-<div>
-<h2 align="center">Thank you for reading</h2>
-<div align="center">
+🧩 **Baekjoon Tier** : Silver II  
+🔧 **Dev Level**     : Still Leveling Up...  
+🕹️ **Pixel Style**  : Always!  
 
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>
+---
+
+### 💾 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lsr0822&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsr0822&layout=compact&theme=tokyonight" width="300"/>
+</p>
+
+---
+
+### 🌈 Fun Zone
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lsr0822&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:feca57,100:ff9ff3&height=120&section=footer"/>
+</p>
