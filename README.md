@@ -1,7 +1,10 @@
+
+
+
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<br>
+<br><h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://egirl.ing/" >
@@ -31,14 +34,12 @@
 <b>Gender:</b> she/her/Female
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
+<b>Hobbys:</b> Drawing, baking or cooking
 </li>
 <li>
-<b>Hobbys:</b> Drawing, Graphic Design, Web Development
+<b>Sing @:</b> Intave Anticheat
 </li>
-<li>
-<b>Working @:</b> Intave Anticheat
-</li>
+<b>studying:</b>chosun 
 <br><br><br>
 </div>
 <div>
@@ -51,10 +52,11 @@
 </div>
 <div>
   <br>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+<align="center">
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<br><br>
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
-</p>
+
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
