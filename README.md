@@ -29,10 +29,9 @@ _🎧 Now Playing_
 
 ### 🎩 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lsr0822&show_icons=true&theme=tokyonight" width="400" style="display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsr0822&layout=compact&theme=tokyonight" width="300" style="display: inline-block;"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsr0822" style="display: inline-block;"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsr0822&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsr0822&layout=compact&theme=tokyonight)
+
+![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsr0822)
 ---
