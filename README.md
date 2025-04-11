@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/D1x7Dmy.jpeg" width="100%" />
+  <img src="https://raw.githubusercontent.com/lsr0822/lsr0822/main/images/Lee_Seorin.png" width="100%" />
 </p>
+
+<h1 align="center">Lee Seorin's Pixel World</h1>
+<p align="center">✨ Welcome to my GitHub! ✨</p>
 
 ---
 
