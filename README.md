@@ -18,17 +18,14 @@
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 🐶 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐶 </h2>
   <div align="center">
 
   </div>
 <li>
- <b>Name:</b> LeeSeoRin</li>
+ <b>Name:</b> Leeseorin</li>
 <li>
-<b>Fursona:</b> Snow Fox
-</li>
-<li>
-<b>Loves:</b> drawing
+<b>Loves:</b> 🤫
 </li>
 <li>
 <b>Gender:</b> she/her/Female
@@ -37,7 +34,7 @@
 <b>LastFM:</b> https://scrobble.egirl.ing
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Drawing, Graphic Design, Web Development
 </li>
 <li>
 <b>Working @:</b> Intave Anticheat
