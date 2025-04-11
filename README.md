@@ -10,7 +10,7 @@
 
 🧍 **Name**       : Lee Seorin  
 🎂 **Born**       : 2006  
-♀️ **Gender**     : Female  
+🚻 **Gender**     : Female  
 🏫 **Study**      : Chosun University  
 
 ---
