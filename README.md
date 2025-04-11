@@ -1,35 +1,38 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lsr0822/lsr0822/main/images/Lee_Seorin.png" width="100%" />
-</p>
 
-<h1 align="center">Lee Seorin's Pixel World</h1>
-<p align="center">✨ Welcome to my GitHub! ✨</p>
+_🎧 Now Playing_  
+[🎶🎶](https://www.youtube.com/watch?v=KmibAxiW3Cc)
+
+
+  <strong>🖤🤍🖤🤍🖤</strong>
+</p>
 
 ---
 
 ### 👩‍💻 About Me
 
-🧍 **Name**       : Lee Seorin  
-🎂 **Born**       : 2006  
-♀️ **Gender**     : Female  
-🏫 **Study**      : Chosun University  
+🖤 **Name**       : Lee Seorin  
+🤍 **Born**       : 2006  
+🖤 **Gender**     : Female  
+🤍 **Study**      : Chosun University  
 
 ---
 
-### 🧠 Knowledge
+### 🎓 Knowledge
 
 <p>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-6e6e6e?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-808080?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 </p>
 
 ---
 
-### 💾 Stats
+### 🎩 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lsr0822&show_icons=true&theme=tokyonight" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsr0822&layout=compact&theme=tokyonight" width="300"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsr0822" width="250"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lsr0822&show_icons=true&theme=tokyonight" width="400" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsr0822&layout=compact&theme=tokyonight" width="300" style="display: inline-block;"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsr0822" style="display: inline-block;"/>
+</div>
+
+---
