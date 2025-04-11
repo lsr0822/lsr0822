@@ -1,15 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/D1x7Dmy.jpeg" width="100%" />
-</p>
 
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ff3,100:feca57&height=200&section=header&text=Lee%20Seorin's%20Pixel%20World&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub!&descAlignY=65&descAlign=60" />
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lsr0822/lsr0822/main/images/bearbox.png" width="300" /><br />
-  <strong>✨ Hello, I’m Lee Seorin ✨</strong>
-</p>
 
 ---
 
