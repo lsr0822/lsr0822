@@ -1,7 +1,3 @@
-
-_🎧  
-[🎶🎶](https://www.youtube.com/watch?v=KmibAxiW3Cc)
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lsr0822&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/lsr0822?pet-id=728157215579214477"
@@ -10,6 +6,8 @@ _🎧
   />
 </a>
   
+_🎧  
+[🎶🎶](https://www.youtube.com/watch?v=KmibAxiW3Cc)
 
   <strong>🖤🤍🖤🤍🖤</strong>
 </p>
